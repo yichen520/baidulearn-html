@@ -1,6 +1,5 @@
 package com.jydp.controller.wap;
 
-import com.alibaba.fastjson.JSONObject;
 import com.iqmkj.utils.Base64Util;
 import com.iqmkj.utils.MD5Util;
 import com.iqmkj.utils.StringUtil;
